@@ -1,0 +1,6 @@
+# macOS build artifacts & OS junk
+.DS_Store
+dist/
+*.app
+*.zip
+*.dmg
